@@ -44,7 +44,7 @@ body {
 /* Style de la section de droite */
 .right-section {
     grid-column: span 5;
-    background-color: var(--color-background);
+    background-color: red;
     height: 100%;
 }
 
